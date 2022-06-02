@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/adhy/project/latih/android/AndroidKotlinCodeStylesWithKtlint/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_list_view.xml",
+        "source": "/home/adhy/project/latih/android/AndroidKotlinCodeStylesWithKtlint/app/src/main/res/layout/item_list_view.xml"
+    },
+    {
+        "merged": "/home/adhy/project/latih/android/AndroidKotlinCodeStylesWithKtlint/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/adhy/project/latih/android/AndroidKotlinCodeStylesWithKtlint/app/src/main/res/layout/activity_main.xml"
+    }
+]
